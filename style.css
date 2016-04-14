@@ -1,0 +1,17 @@
+body {
+	background-color: #ff99bb;
+	border-color: #9933ff;
+}
+
+h1 {
+	background-color: #0066ff;
+	color: #0000000;
+
+}
+p #content .col {
+	float: right;
+	font-family: "Times New Roman";
+	font-style: 20px;
+	color: 0000000;
+	text-indent: 50px; 
+}
